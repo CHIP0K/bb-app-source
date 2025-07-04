@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: chip0k/block-buster-dev:7.1.0
+          image: chip0k/block-buster-dev:7.2.0
           imagePullPolicy: Always
           resources:
             requests:
