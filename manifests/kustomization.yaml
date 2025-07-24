@@ -5,3 +5,4 @@ resources:
   - ../modules/configmap.yaml
 
 namePrefix: main-
+nameSuffix: -test
